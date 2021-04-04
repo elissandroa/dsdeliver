@@ -11,15 +11,15 @@ A aplicação consiste em aplicativo de pedidos onde os dados são coletados no 
 é traçado uma rota para a entrega usando google maps.
 
 ## Layout mobile
-![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/front-mobile-dsdelivery-1.png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/front-mobile-dsdelivery-3.png)
-![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/front-mobile-dsdelivery-2.png)
+![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/front-mobile-dsdelivery-1.png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/front-mobile-dsdelivery-3.png)
+![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/front-mobile-dsdelivery-2.png)
 ## Layout web
-![Web 1](https://github.com/elissandroa/assets/blob/main/assets/front-web-dsdelivery-1.png)
+![Web 1](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/front-web-dsdelivery-1.png)
 
-![Web 2](https://github.com/elissandroa/assets/blob/main/assets/front-web-dsdelivery-2.png)
+![Web 2](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/front-web-dsdelivery-2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/elissandroa/assets/blob/main/assets/modelo-conceitual-dsdeliver.png)
+![Modelo Conceitual](https://github.com/elissandroa/assets/blob/main/assets/dsdeliver/modelo-conceitual-dsdeliver.png)
 
 # Tecnologias utilizadas
 ## Back end
